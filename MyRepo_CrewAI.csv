@@ -1,0 +1,217 @@
+ID,Title,Created Date,Updated Date,Author,Commits,Changed Files,Additions,Deletions,Status
+739,helicone integration docs,2024-06-07 18:59:07+00:00,2024-06-07 18:59:07+00:00,chitalian,1,1,26,0,Open
+735,Adding async support for tools,2024-06-05 05:05:57+00:00,2024-06-05 06:11:49+00:00,tg1482,2,2,103,4,Open
+728,Update Memory.md,2024-06-03 21:21:49+00:00,2024-06-03 21:21:49+00:00,robbyriverside,1,1,6,1,Open
+721,fix: agent_executor_callbacks,2024-06-02 07:53:54+00:00,2024-06-02 07:53:54+00:00,JayClock,1,1,2,1,Open
+720,Add prompt_overrides to Crew,2024-06-02 06:59:41+00:00,2024-06-02 07:34:49+00:00,gabriels1234,1,3,39,3,Open
+712,Removed hyphen in co-workers,2024-05-29 16:13:56+00:00,2024-06-04 18:48:21+00:00,madmag77,1,18,387,381,Open
+708,[Docs] Standardize max_execution_time,2024-05-28 16:05:13+00:00,2024-06-07 00:45:58+00:00,yuripourre,1,1,2,2,Open
+707,Update AgentOps-Observability.md,2024-05-28 15:47:39+00:00,2024-05-28 15:47:39+00:00,fabfianda,1,1,2,2,Open
+702,add datetime import for logger.py,2024-05-28 08:47:51+00:00,2024-06-07 00:43:54+00:00,lugq1990,1,1,1,0,Open
+697,Feature/kickoff for each tests,2024-05-27 18:46:05+00:00,2024-05-27 18:46:05+00:00,bhancockio,11,7,791,340,Open
+694,Added contextual memory in __init__ file,2024-05-27 12:06:42+00:00,2024-06-07 00:56:13+00:00,gaganmanku96,1,1,1,0,Open
+693,fix for python 3.9 import crewai error [#215],2024-05-27 05:56:36+00:00,2024-05-27 05:56:36+00:00,lugq1990,1,2,3,3,Open
+686,feat: Add Train feature for Crews,2024-05-24 22:36:58+00:00,2024-06-07 00:54:03+00:00,pythonbyte,6,6,236,6,Open
+680,Feature/kickoff for each sync,2024-05-23 03:40:11+00:00,2024-06-04 04:23:06+00:00,bhancockio,5,3,193,38,Open
+645,Fix typo's within converter.py,2024-05-20 08:47:41+00:00,2024-06-07 00:41:34+00:00,theCyberTech,2,2,5,5,Open
+632,feat(agent): adds support for customizing the agent via a langchain runnable config,2024-05-17 06:54:58+00:00,2024-06-07 00:39:59+00:00,thehapyone,2,2,23,16,Open
+628,Added Firecrawl tools to docs,2024-05-16 16:30:49+00:00,2024-05-16 16:30:49+00:00,rafaelsideguide,1,4,118,0,Open
+622,Fix #620,2024-05-15 11:30:10+00:00,2024-06-07 13:06:41+00:00,italovieira,2,1,1,1,Open
+619,Upgrade Project Dependencies Using Poetry for Enhanced Package Management,2024-05-15 04:07:45+00:00,2024-05-15 04:07:45+00:00,ronenfilho,1,1,45,44,Open
+618,Adding in workflows to kickoff multiple crews and tasks,2024-05-15 02:07:07+00:00,2024-05-17 03:49:47+00:00,bhancockio,7,6,377,151,Open
+606,MVP working but still needs improvements,2024-05-12 23:10:29+00:00,2024-06-07 00:31:39+00:00,bhancockio,1,10,215,0,Open
+599,update agent/tasks/tools documentation to use literal property names,2024-05-11 19:08:04+00:00,2024-06-07 00:30:00+00:00,contractorwolf,1,4,61,62,Open
+562,More explicit prompting to help smaller models,2024-05-04 13:38:42+00:00,2024-05-10 19:52:26+00:00,diversity-co-uk,4,1,14,14,Open
+543,Add back AgentOps as Optional Dependency,2024-04-30 20:21:12+00:00,2024-06-08 00:16:13+00:00,bboynton97,61,7,96,18,Open
+542,Set the path where all memories are saved,2024-04-30 13:05:32+00:00,2024-06-07 13:12:15+00:00,arnaudgelas,1,6,36,10,Open
+493,adding agent name feature to help monitor traces in LLMOps tools,2024-04-23 00:55:36+00:00,2024-06-06 23:54:19+00:00,saibhaskerraju,4,1,1,1,Open
+483,Accept Langchain's RunnableConfig to Agent.execute_task,2024-04-19 10:50:28+00:00,2024-06-07 13:09:27+00:00,whimo,1,1,4,1,Open
+402,Enable telemetry opt-out #254,2024-03-30 22:08:06+00:00,2024-05-28 11:52:20+00:00,gardner,3,1,2,0,Open
+371,Updated documentation with details about 'crewai create' command,2024-03-22 20:45:27+00:00,2024-06-07 00:06:31+00:00,Blanco10022,1,1,40,0,Open
+293,Added documentation-comments-translation to IT language,2024-02-29 18:48:04+00:00,2024-04-22 14:35:57+00:00,capimichi,21,20,648,283,Open
+246,Ability to integrate external agents into the framework,2024-02-11 16:42:19+00:00,2024-06-07 13:11:30+00:00,ZmeiGorynych,10,6,119,8,Open
+723,missing datetime import,2024-06-02 14:42:44+00:00,2024-06-02 15:53:34+00:00,strnad,1,1,1,1,Close
+715,add missing datetime import,2024-05-30 22:19:21+00:00,2024-05-31 11:04:59+00:00,Infrared1029,1,1,1,1,Close
+698,Update model to ChatOllama-in LLM-Connections.md,2024-05-27 19:55:20+00:00,2024-05-30 15:12:10+00:00,raulmartinez1855,1,1,3,4,Close
+696,updated the import for cohere llm,2024-05-27 15:40:52+00:00,2024-06-04 06:32:23+00:00,taradepan,1,1,1,1,Close
+688,BestProject/Create Project 001,2024-05-25 02:06:34+00:00,2024-05-25 23:34:36+00:00,Malumatra,1,1,1,0,Close
+687,Add AI Newsletter Agency to Showcase CrewAI Capabilities Using Hierarchical Approach,2024-05-25 01:16:07+00:00,2024-05-25 23:36:09+00:00,Eugene9D,1,9,272,0,Close
+676,Fix typo in instruction en.json,2024-05-22 21:06:17+00:00,2024-05-24 03:03:07+00:00,OlivierRoberdet,1,1,1,1,Close
+666,fixes #665,2024-05-21 16:51:50+00:00,2024-05-26 04:31:28+00:00,vmsaif,1,1,1,1,Close
+663,Enable search in docs,2024-05-21 15:36:52+00:00,2024-05-24 03:03:32+00:00,sanders41,1,1,1,0,Close
+662,Clarify text in docstring,2024-05-21 15:23:27+00:00,2024-05-24 03:04:02+00:00,sanders41,1,1,1,1,Close
+655,Update on default llm model used in agent.py,2024-05-21 04:58:24+00:00,2024-05-24 03:04:53+00:00,Anudeep-Kolluri,1,1,1,1,Close
+652,Update Getting Started README.md example so that you can pass an llm parameter and not break code if lines are uncommented.,2024-05-20 21:20:56+00:00,2024-05-24 03:05:33+00:00,heaversm,1,1,13,11,Close
+647,docs: Update browserbase tool,2024-05-20 09:04:26+00:00,2024-05-24 03:05:59+00:00,mishushakov,1,1,13,4,Close
+646,Added timestamp to logger,2024-05-20 09:01:56+00:00,2024-05-27 02:13:50+00:00,theCyberTech,3,1,3,1,Close
+644,Fix typo within crew.py,2024-05-20 08:38:18+00:00,2024-05-24 03:06:27+00:00,theCyberTech,1,1,1,1,Close
+634,Add Langtrace to the 'How to' docs for CrewAI Agent Observability,2024-05-17 17:59:05+00:00,2024-05-29 05:14:29+00:00,karthikscale3,4,3,44,0,Close
+631,Test/GitHub action pipeline,2024-05-17 00:15:32+00:00,2024-05-17 01:32:44+00:00,pythonbyte,1,2,6,7,Close
+624,feat: Add crew train cli,2024-05-15 22:54:58+00:00,2024-05-23 21:47:01+00:00,pythonbyte,7,16,278,45,Close
+608,Small RC Fixes,2024-05-13 05:11:49+00:00,2024-05-13 05:29:08+00:00,joaomdmoura,7,21,203703,3188,Close
+607,fix typo exectue -> execute,2024-05-13 04:47:53+00:00,2024-05-13 05:19:07+00:00,italovieira,1,8,23,23,Close
+604,Fixes #603,2024-05-12 21:05:59+00:00,2024-05-13 05:34:52+00:00,vmsaif,1,1,1,1,Close
+596,feat: adds support to automatically fallback to the default encoding,2024-05-10 14:01:37+00:00,2024-05-10 14:54:46+00:00,thehapyone,2,1,2,2,Close
+591,feat: add mypy as type checker-update code and add comment to reference,2024-05-10 01:47:03+00:00,2024-05-10 19:37:58+00:00,pythonbyte,25,23,1060,306,Close
+590,Fix/yaml formatting,2024-05-09 23:29:55+00:00,2024-05-10 00:35:21+00:00,GabeKoga,2,3,21,1,Close
+588,Feat: Add Ruff to improve linting/formatting,2024-05-09 22:09:12+00:00,2024-05-10 14:53:58+00:00,pythonbyte,11,13,30,53,Close
+587,fix: fix test actually running,2024-05-09 19:10:13+00:00,2024-05-10 00:33:56+00:00,pythonbyte,4,4,422,5,Close
+585,fix: Add validation fix output_file issue when have '/',2024-05-09 10:55:09+00:00,2024-05-09 11:11:09+00:00,pythonbyte,3,4,31,19,Close
+568,Task needs an expected_output field in docs.,2024-05-05 14:33:05+00:00,2024-05-10 14:55:10+00:00,stephenwithav,2,1,2,1,Close
+567,Revert 'Fix .md doc file 404 error on github',2024-05-05 13:35:33+00:00,2024-05-05 13:35:47+00:00,joaomdmoura,1,1,15,15,Close
+564,Fix .md doc file 404 error on github,2024-05-04 17:55:22+00:00,2024-05-05 05:53:20+00:00,JackieQi,2,1,15,15,Close
+557,changes static example topic to dynamic example topic,2024-05-03 20:35:26+00:00,2024-05-03 21:34:46+00:00,tarekadam,2,1,2,2,Close
+556,changes static hard coded subject/topic to dynamic {topic},2024-05-03 20:23:20+00:00,2024-05-03 20:24:36+00:00,tarekadam,1,1,2,2,Close
+555,docs: corrected imprecision in the instantiation,2024-05-03 10:11:01+00:00,2024-05-05 06:55:14+00:00,alexfazio,1,1,1,1,Close
+553,Update LLM-Connections.md terminal command in docs,2024-05-03 03:13:03+00:00,2024-05-03 03:25:03+00:00,tarekadam,1,1,1,1,Close
+552,fixes documentation of terminal command,2024-05-03 03:10:40+00:00,2024-05-03 03:11:27+00:00,tarekadam,2,1,1,1,Close
+551,Update docstring in crew.py,2024-05-02 19:20:31+00:00,2024-05-02 22:21:23+00:00,dsolito,1,1,1,0,Close
+550,Allow to use async tools within the task pipeline,2024-05-02 06:08:02+00:00,2024-06-05 05:07:00+00:00,tg1482,3,8,540,10,Close
+548,fix to import statement PGSearchTool.md,2024-05-01 18:58:30+00:00,2024-05-02 06:10:43+00:00,alexfazio,1,1,2,2,Close
+546,docs fix to xml tool import statement,2024-05-01 15:40:00+00:00,2024-05-01 15:53:49+00:00,alexfazio,2,1,1,1,Close
+525,Update README.md,2024-04-28 01:24:28+00:00,2024-05-02 06:12:03+00:00,JimCollinsDC,1,1,1,1,Close
+523,Add conditional check for output file directory creation,2024-04-26 22:50:14+00:00,2024-05-02 06:13:51+00:00,Tavernari,1,1,6,0,Close
+521,Tool name recognition based on string distance,2024-04-26 10:13:26+00:00,2024-05-02 06:15:35+00:00,deadlious,5,1,6,2,Close
+508,Added Browserbase loader to the docs,2024-04-24 13:11:02+00:00,2024-05-02 06:15:59+00:00,mishushakov,2,2,30,0,Close
+507,fix [Errno 30] Read-only file system error when using AWS Lambda,2024-04-24 11:32:39+00:00,2024-05-02 06:16:54+00:00,SamuelKocur,1,1,9,3,Close
+492,fix typo: PGSearchTool.md,2024-04-23 00:07:36+00:00,2024-05-02 06:22:19+00:00,cmosta0,1,1,2,2,Close
+491,Update task.py: try to find json in task output using regex,2024-04-22 21:19:05+00:00,2024-05-02 06:26:35+00:00,ftoppi,2,1,11,1,Close
+490,Changed 'Inert' to 'Innate' #470,2024-04-22 17:59:56+00:00,2024-05-02 06:27:09+00:00,Chillthrower,1,1,3,3,Close
+489,fix typo,2024-04-22 15:59:33+00:00,2024-05-02 06:27:41+00:00,eltociear,2,2,5,5,Close
+488,fix: TypeError: LongTermMemory.search() missing 1 required positional argument: 'latest_n',2024-04-21 19:01:11+00:00,2024-05-02 06:28:50+00:00,dkhokhlov,1,1,1,1,Close
+477,Fix lockfile,2024-04-17 17:18:23+00:00,2024-04-18 14:28:07+00:00,Christian24,1,1,5,5,Close
+475,Prevent duplicate TokenCalcHandler callbacks on Agent,2024-04-16 15:46:53+00:00,2024-04-16 18:54:03+00:00,jackhayter,1,1,7,3,Close
+474,Added optional manager_agent parameter,2024-04-16 10:46:24+00:00,2024-04-16 11:18:36+00:00,noggynoggy,2,1,15,8,Close
+472,Fixed typo in Tools.md,2024-04-15 22:03:32+00:00,2024-04-25 12:58:03+00:00,hyldmo,1,1,2,2,Close
+468,Update LLM-Connections.md with up to date LM Studio instructions,2024-04-13 15:22:02+00:00,2024-04-16 11:20:56+00:00,pbadeer,1,1,3,3,Close
+461,fix: link to observability,2024-04-11 09:03:32+00:00,2024-04-16 11:22:21+00:00,jonathanmv,1,1,1,1,Close
+458,Incorrect documentation link for AgentOps,2024-04-11 05:21:04+00:00,2024-04-16 11:24:30+00:00,areibman,10,6,43,27,Close
+446,Novo translation pt-BR,2024-04-08 22:42:35+00:00,2024-05-05 06:02:02+00:00,jowpereira,1,1,37,0,Close
+443,fix: swapped the task callback assignment,2024-04-08 12:41:38+00:00,2024-04-16 18:54:43+00:00,bastulli,1,1,1,1,Close
+442,Update README.md,2024-04-08 06:39:10+00:00,2024-04-08 08:59:05+00:00,Cfomodz,1,1,2,2,Close
+436,The suggestions were getting split at character level and not at sentence level,2024-04-06 20:07:45+00:00,2024-04-07 05:57:24+00:00,rajib76,2,1,1,1,Close
+432,Added trasnlation to 'pt-BR',2024-04-05 23:48:30+00:00,2024-05-05 06:02:12+00:00,freirefx,1,1,34,0,Close
+428,fix/color_change,2024-04-05 21:25:20+00:00,2024-04-05 21:26:03+00:00,GabeKoga,1,3,12,12,Close
+423,Feature: Log files,2024-04-04 19:20:36+00:00,2024-04-05 22:44:53+00:00,GabeKoga,2,7,231,5,Close
+420,Update Creating-a-Crew-and-kick-it-off.md: add compatible python versions,2024-04-03 21:22:05+00:00,2024-04-22 21:12:38+00:00,ftoppi,2,1,1,1,Close
+412,AgentOps Docs,2024-04-02 22:35:11+00:00,2024-04-04 18:09:31+00:00,bboynton97,4,5,78,1,Close
+411,AgentOps Implementation,2024-04-02 22:19:32+00:00,2024-04-20 15:20:13+00:00,bboynton97,32,4,13,0,Close
+409,Stop overwriting LLM callback #408,2024-04-02 21:32:19+00:00,2024-04-05 22:45:57+00:00,rakeshgohel01,1,1,4,2,Close
+407,whitespace consistency across docs,2024-04-02 20:28:28+00:00,2024-04-06 06:45:00+00:00,ruebenramirez,2,2,51,51,Close
+406,tasks.py: don't call Converter when model response is valid,2024-04-02 17:53:42+00:00,2024-04-04 13:16:15+00:00,ftoppi,3,1,10,0,Close
+404,Feature/human input,2024-04-01 14:22:45+00:00,2024-04-01 14:29:59+00:00,GabeKoga,8,7,450,12,Close
+401,Enable telemetry opt-out #254,2024-03-30 21:59:36+00:00,2024-03-30 22:07:20+00:00,gardner,1,1,2,0,Close
+395,feature: human input per task,2024-03-28 20:51:35+00:00,2024-04-01 13:05:00+00:00,GabeKoga,9,7,449,12,Close
+391,Update README.md,2024-03-28 15:17:30+00:00,2024-03-30 14:56:09+00:00,eltociear,1,1,1,1,Close
+390,Update GitHubSearchTool.md,2024-03-28 08:11:21+00:00,2024-04-05 05:49:12+00:00,kenchambers,1,1,9,9,Close
+389,Add French translation,2024-03-27 23:48:43+00:00,2024-04-22 21:12:40+00:00,ftoppi,1,1,33,0,Close
+385,Update ScrapeWebsiteTool.md,2024-03-27 13:52:07+00:00,2024-03-30 14:57:08+00:00,kjenney,1,1,4,0,Close
+373,[AUG] Add solar connect example,2024-03-23 05:36:13+00:00,2024-04-05 22:48:28+00:00,Tokkiu,2,1,12,2,Close
+369,Fix input interpolation bug,2024-03-22 00:47:36+00:00,2024-03-22 06:08:57+00:00,gvieira,1,4,63,5,Close
+368,Custom model docs,2024-03-22 00:12:22+00:00,2024-03-22 06:01:58+00:00,gvieira,1,17,440,88,Close
+363,Add missing documentation to Task model,2024-03-20 20:07:58+00:00,2024-04-05 22:49:37+00:00,shivamjagdishsingh,1,1,17,1,Close
+361,Fixed: use absolute import-run main as app,2024-03-19 21:19:29+00:00,2024-04-01 13:06:13+00:00,GabeKoga,2,2,10,8,Close
+359,Update LLM-Connections.md,2024-03-19 07:44:04+00:00,2024-04-19 05:39:33+00:00,selimhanerhan,2,1,65,1,Close
+357,Update GitHubSearchTool.md,2024-03-18 17:22:51+00:00,2024-04-19 05:40:39+00:00,kaushalpowar,2,1,3,3,Close
+353,Update LLM-Connections.md - fix typo,2024-03-16 08:17:33+00:00,2024-04-19 05:41:36+00:00,sajal2692,2,1,2,2,Close
+350,Update README.md,2024-03-15 14:24:22+00:00,2024-04-19 05:43:13+00:00,erickthered,1,1,2,0,Close
+349,Fix Typo in README: Correct 'mode' to 'model',2024-03-15 02:41:59+00:00,2024-04-19 05:42:05+00:00,crownemmanuel,1,1,2,1,Close
+348,Add version command to CLI,2024-03-14 11:44:43+00:00,2024-05-15 22:50:50+00:00,whoabuddy,3,2,38,0,Close
+345,fix typos in generated readme,2024-03-13 20:15:39+00:00,2024-05-02 06:32:19+00:00,whoabuddy,1,1,4,4,Close
+339,Allow minor version patches to `python-dotenv`,2024-03-12 14:34:32+00:00,2024-04-19 05:44:09+00:00,Elijas,2,1,1,1,Close
+337,Docs - fixing doc for the new crewai_tools,2024-03-12 11:55:05+00:00,2024-05-02 06:31:56+00:00,DaviRolim,1,2,2,2,Close
+335,docs: fix formatting in `Human-Input-on-Execution.md`,2024-03-11 12:23:44+00:00,2024-03-11 19:38:59+00:00,anselm94,1,1,6,2,Close
+333,added langchain callback to agents,2024-03-09 21:00:12+00:00,2024-05-13 12:23:25+00:00,chrispangg,1,2,13,0,Close
+331,Update Crews.md,2024-03-09 03:40:10+00:00,2024-03-11 19:40:46+00:00,bllchmbrs,1,1,1,0,Close
+326,Update Tools.md,2024-03-07 13:44:33+00:00,2024-03-11 19:41:14+00:00,baktakt,2,1,3,3,Close
+313,Update Human-Input-on-Execution.md,2024-03-04 21:10:45+00:00,2024-03-11 19:43:17+00:00,telepath,1,1,1,2,Close
+311,Update Create-Custom-Tools.md,2024-03-04 15:55:00+00:00,2024-03-12 20:04:21+00:00,selimhanerhan,1,1,24,1,Close
+310,Update Create-Custom-Tools.md,2024-03-04 15:51:06+00:00,2024-03-04 15:52:50+00:00,selimhanerhan,1,1,22,1,Close
+309,Docs,2024-03-04 15:48:24+00:00,2024-03-04 15:49:22+00:00,selimhanerhan,3,1,24,1,Close
+305,DOC - Update install instruction for crewai[tools],2024-03-03 18:58:51+00:00,2024-03-11 19:44:52+00:00,picsoung,1,1,1,1,Close
+302,fix typos in README,2024-03-03 13:01:17+00:00,2024-03-03 13:17:36+00:00,2series,1,1,27,16,Close
+301,Fix minor typo in README,2024-03-02 23:32:07+00:00,2024-03-03 18:10:41+00:00,mathiscode,1,1,1,1,Close
+300,Fix typo in Tools.md,2024-03-02 19:23:41+00:00,2024-03-11 19:45:29+00:00,abegong,1,1,2,2,Close
+295,Typo in directory name-'telemtry' should be 'telemetry',2024-03-01 11:22:27+00:00,2024-03-03 15:41:14+00:00,heyfixit,1,4,2,2,Close
+289,Update test_cache_hitting.yaml,2024-02-28 17:32:17+00:00,2024-05-02 06:30:35+00:00,eltociear,1,1,5,5,Close
+283,Update Tools.md,2024-02-27 18:40:56+00:00,2024-02-28 12:23:04+00:00,selimhanerhan,1,1,2,1,Close
+282,Remove extraneous pip install command from Creating-a-Crew-and-kick-it-off.md,2024-02-27 18:20:31+00:00,2024-02-28 12:24:12+00:00,barapa,1,1,0,1,Close
+281,Fix typoes in en.json,2024-02-27 18:14:12+00:00,2024-02-28 12:24:45+00:00,gsteinLTU,1,1,6,6,Close
+280,Fix Creating-a-Crew-and-kick-it-off.md so it can run,2024-02-27 17:07:46+00:00,2024-02-27 17:23:20+00:00,barapa,2,1,1,1,Close
+279,Update Creating-a-Crew-and-kick-it-off.md to add crewai-tools as dependency,2024-02-27 16:51:25+00:00,2024-02-27 17:05:51+00:00,barapa,1,1,1,0,Close
+276,correct a typo in tool_usage.py,2024-02-27 01:05:11+00:00,2024-02-28 12:25:28+00:00,ya0guang,1,1,3,3,Close
+271,Create pt-br. translation,2024-02-25 00:32:02+00:00,2024-04-01 13:04:23+00:00,augustoromeiro,8,3,38,4,Close
+270,Add Pt-Br Language,2024-02-24 15:37:15+00:00,2024-02-25 00:32:26+00:00,augustoromeiro,3,1,33,0,Close
+269,Add Pt-Br Language,2024-02-24 15:34:11+00:00,2024-02-24 15:36:01+00:00,augustoromeiro,2,1,33,0,Close
+266,disable telemetry,2024-02-23 18:34:40+00:00,2024-02-23 18:36:00+00:00,smallstepman,2,2,0,17,Close
+260,Update Agents.md 124,2024-02-19 20:02:53+00:00,2024-03-11 19:48:06+00:00,IAMRICHNOW,2,2,116,133,Close
+257,Recommended version message,2024-02-18 20:37:08+00:00,2024-04-01 13:03:34+00:00,0xrushi,4,1,2,0,Close
+252,Update LLM-Connections.md,2024-02-16 20:54:31+00:00,2024-04-01 13:03:16+00:00,ellenealds,2,1,21,2,Close
+240,Fix example code in Update Tasks.md,2024-02-09 17:09:37+00:00,2024-03-31 23:40:51+00:00,sebestyenmiklos1,2,1,6,6,Close
+237,Fix types,2024-02-08 21:35:36+00:00,2024-03-28 18:04:41+00:00,gvieira,1,6,29,26,Close
+236,Adding translations in Portuguese and Spanish,2024-02-08 17:17:15+00:00,2024-02-08 22:05:28+00:00,francisc0arauj0,2,2,52,0,Close
+235,Update Processes.md,2024-02-08 12:21:49+00:00,2024-04-10 17:52:39+00:00,punitchauhan771,1,1,6,1,Close
+229,[Snorkell.ai] Please review the generated documentation for your repository,2024-02-07 14:22:43+00:00,2024-03-31 23:34:50+00:00,sumansaurabh,2,15,516,41,Close
+227,Bug fix hierarchical process manager llm,2024-02-07 03:14:07+00:00,2024-02-07 23:26:26+00:00,kreutzi,1,1,1,0,Close
+223,RAG integration example,2024-02-06 00:49:30+00:00,2024-03-31 23:25:08+00:00,ryanmac,1,7,115,0,Close
+211,Fix undefined agent,2024-02-03 11:09:16+00:00,2024-02-05 07:54:00+00:00,punkt2,1,1,1,1,Close
+210,Update README.md: new header-text clean up-fix broken links,2024-02-03 04:14:50+00:00,2024-02-03 04:29:05+00:00,ilyasudakov,2,1,72,55,Close
+206,Hierarchical process,2024-02-01 22:24:12+00:00,2024-02-02 16:56:39+00:00,gvieira,7,12,1349,65,Close
+201,Additional sequential process to return full task output,2024-01-30 22:09:56+00:00,2024-03-31 22:57:36+00:00,bryetz,2,1,19,0,Close
+199,Test,2024-01-29 22:17:23+00:00,2024-01-29 22:27:23+00:00,gvieira,2,3,6,4,Close
+191,Addresses typo and clarification in comments,2024-01-28 01:02:48+00:00,2024-01-29 02:42:32+00:00,EliadCohen,1,1,4,2,Close
+188,Feature: Documentation Site,2024-01-27 19:18:51+00:00,2024-01-29 02:43:26+00:00,itlackey,6,15,861,41,Close
+187,Fix static typing errors,2024-01-27 17:48:37+00:00,2024-01-29 22:52:20+00:00,gvieira,10,18,135,87,Close
+180,Update wiki about local LLM to use updated langchain-community.llms #179,2024-01-24 13:41:32+00:00,2024-03-31 22:48:47+00:00,reaperkrew,2,1,2,2,Close
+172,Adding the feature to auto select matching agents for a tasks,2024-01-22 08:12:50+00:00,2024-02-08 09:22:10+00:00,michaelwdombek,3,6,367,4,Close
+170,.editorconfig for Consistent Python Coding Styles & Fr language for agent,2024-01-21 20:30:36+00:00,2024-03-31 22:45:24+00:00,tal7aouy,2,2,35,0,Close
+168,Issue #163-Fixed the small typo,2024-01-21 16:23:56+00:00,2024-01-21 19:54:20+00:00,prabha-git,1,1,1,1,Close
+165,bug fix and testcase for i18n,2024-01-21 02:44:49+00:00,2024-03-31 20:19:49+00:00,cove9988,12,2,36,3,Close
+164,Instructions for running docker image,2024-01-20 21:10:43+00:00,2024-03-12 01:02:12+00:00,JimJim12,8,2,86,0,Close
+161,Update agent.py,2024-01-20 13:23:20+00:00,2024-01-22 22:53:27+00:00,scott------,1,1,1,0,Close
+157,Snorkell doc branch,2024-01-19 09:25:19+00:00,2024-01-19 09:27:03+00:00,sumansaurabh,2,15,73,0,Close
+149,FR language support - not tested yet,2024-01-17 09:36:55+00:00,2024-03-31 18:57:22+00:00,Guerdal,1,1,20,0,Close
+144,Refine Docstrings and Type Hints,2024-01-16 04:47:12+00:00,2024-01-21 19:55:17+00:00,greysonlalonde,1,3,50,13,Close
+134,Add spanish support,2024-01-14 13:13:30+00:00,2024-03-31 18:57:09+00:00,meirm,1,1,20,0,Close
+133,Add RPM control to both agents and crews,2024-01-14 03:20:51+00:00,2024-01-14 03:22:14+00:00,joaomdmoura,3,16,2343,85,Close
+131,DE language support - not tested yet,2024-01-13 20:53:18+00:00,2024-03-31 18:56:49+00:00,jkellerer,1,1,20,0,Close
+129,NL language support - not tested yet,2024-01-13 19:42:13+00:00,2024-03-31 18:56:41+00:00,loukdeloijer,1,1,20,0,Close
+127,Dutch translation,2024-01-13 19:05:49+00:00,2024-03-31 18:55:52+00:00,Toon-nooT,2,1,20,0,Close
+126,Case insensitive tool and agent names,2024-01-13 17:26:36+00:00,2024-03-31 18:54:51+00:00,jkellerer,4,3,15,10,Close
+124,Adding support for Crew throttling using RPM,2024-01-13 14:09:47+00:00,2024-01-13 14:20:34+00:00,joaomdmoura,3,14,932,127,Close
+122,Adding Greek translation,2024-01-12 23:33:10+00:00,2024-01-13 14:22:24+00:00,JimJim12,4,1,20,0,Close
+120,Adding support for translations,2024-01-12 17:49:21+00:00,2024-01-12 17:49:40+00:00,joaomdmoura,2,12,148,101,Close
+116,Add Github action for black,2024-01-12 06:21:53+00:00,2024-01-13 01:06:14+00:00,greysonlalonde,1,1,10,0,Close
+111,Revamp max iteration Logic,2024-01-11 15:31:48+00:00,2024-01-11 15:32:57+00:00,joaomdmoura,4,6,1035,17,Close
+108,Bump to `langchain0.1.0`,2024-01-11 07:58:34+00:00,2024-01-11 12:33:43+00:00,greysonlalonde,2,4,84,14,Close
+99,Move to `src` dir usage,2024-01-10 04:01:49+00:00,2024-01-16 17:05:49+00:00,greysonlalonde,1,22,17,6,Close
+98,Add missing pydantic imports,2024-01-10 03:08:38+00:00,2024-01-10 03:13:07+00:00,greysonlalonde,1,1,20,10,Close
+97,update example usage in README,2024-01-09 19:40:30+00:00,2024-01-10 02:22:42+00:00,shadow578,1,1,1,1,Close
+90,improved readability,2024-01-08 16:11:02+00:00,2024-01-10 02:29:51+00:00,paipeline,1,2,84,102,Close
+88,Refractoring,2024-01-08 11:10:34+00:00,2024-01-10 03:04:14+00:00,SashaXser,2,6,16,28,Close
+81,Update README.md,2024-01-07 15:06:51+00:00,2024-01-07 16:37:31+00:00,eltociear,1,1,1,1,Close
+77,Reliability improvements,2024-01-07 12:26:17+00:00,2024-01-07 15:43:41+00:00,joaomdmoura,8,11,125,123,Close
+72,Notebook showing how to use Ollama,2024-01-06 22:44:46+00:00,2024-01-10 02:22:04+00:00,karnagge,1,1,257,0,Close
+68,Tools cache and delegation improvements,2024-01-06 14:46:10+00:00,2024-01-06 14:46:37+00:00,joaomdmoura,2,4,26,16,Close
+63,Update README.md,2024-01-05 22:58:30+00:00,2024-01-06 15:35:12+00:00,siddartha-10,1,1,49,0,Close
+61,Updated the main example in README.md,2024-01-05 21:03:27+00:00,2024-01-06 03:34:28+00:00,iplayfast,5,1,11,1,Close
+54,Better agent execution error handling,2024-01-05 14:04:44+00:00,2024-01-05 14:05:03+00:00,joaomdmoura,5,16,38,43,Close
+50,Refactoring task cache to be a tool,2024-01-04 23:40:37+00:00,2024-01-05 00:32:16+00:00,joaomdmoura,2,12,1671,396,Close
+48,Proper README example,2024-01-04 12:59:45+00:00,2024-01-04 13:03:27+00:00,joaomdmoura,1,1,40,10,Close
+42,Update output_parser.py,2024-01-02 20:34:48+00:00,2024-01-02 23:52:12+00:00,SuperMalinge,1,1,1,1,Close
+33,Change 'agent' to 'openhermes' in Ollama example,2023-12-31 21:23:41+00:00,2024-01-03 15:56:35+00:00,stoltzmaniac,1,1,1,1,Close
+30,Fix Pydantic/Langchain Inheritance Bug,2023-12-31 07:31:24+00:00,2023-12-31 13:52:15+00:00,greysonlalonde,1,3,62,8,Close
+29,Implement CrewAIBaseModel and Update to ConfigDict,2023-12-30 23:41:16+00:00,2023-12-31 00:52:04+00:00,greysonlalonde,11,5,35,12,Close
+27,Update README.md,2023-12-30 15:32:39+00:00,2023-12-31 00:49:20+00:00,eltociear,1,1,1,1,Close
+26,Add .circleci/config.yml,2023-12-29 23:56:30+00:00,2023-12-30 00:14:23+00:00,joaomdmoura,9,1,27,0,Close
+25,Adding tool caching a loop execution prevention.,2023-12-29 23:54:01+00:00,2023-12-30 01:35:52+00:00,joaomdmoura,2,14,3046,54,Close
+24,Refactor Codebase to Use Pydantic v2 and Enhance Type Hints-Documentation,2023-12-29 06:14:10+00:00,2023-12-30 00:44:31+00:00,greysonlalonde,8,11,157,112,Close
+17,Update to use absolute imports,2023-12-27 21:34:31+00:00,2023-12-30 01:40:00+00:00,greysonlalonde,2,6,14,13,Close
+15,Update Python to 3.9-Add Code Quality Tools-& Update Lockfile,2023-12-27 19:02:37+00:00,2023-12-27 20:34:57+00:00,greysonlalonde,6,16,947,640,Close
+14,fix prompt typo,2023-12-27 17:28:01+00:00,2023-12-27 18:05:51+00:00,jerryjliu,1,1,3,3,Close
+12,Update agent.py,2023-12-25 00:45:11+00:00,2023-12-25 12:25:01+00:00,JamesChannel1,1,1,17,2,Close
+9,Update README.md,2023-12-22 03:35:45+00:00,2023-12-22 13:24:36+00:00,llxxxll,2,1,5,2,Close
+7,Fix typo in readme for valid syntax in example code.,2023-12-09 22:47:27+00:00,2023-12-18 04:10:49+00:00,shreyaskarnik,1,1,1,1,Close
+3,fix typo in quickstart snippet,2023-11-17 18:12:33+00:00,2023-11-17 18:56:14+00:00,manuel-soria,2,1,2,2,Close
+2,Adding crew specific verbose logs,2023-11-16 21:50:08+00:00,2023-11-16 22:17:18+00:00,joaomdmoura,6,5,61,8,Close
+1,Fix tiny typo,2023-11-16 11:17:38+00:00,2023-11-16 21:49:11+00:00,franzejr,1,1,1,1,Close
